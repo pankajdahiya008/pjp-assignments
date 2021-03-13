@@ -5,3 +5,5 @@ The meaning of the name "ice cream" varies from one country to another. Terms su
 Ice cream may be served in dishes, for eating with a spoon, or licked from edible cones. Ice cream may be served with other desserts, such as apple pie, or as an ingredient in ice cream floats, sundaes, milkshakes, ice cream cakes and even baked items, such as Baked Alaska.
 
 Purpose - Above file is added to learn making new files on git.
+
+Changing this file and then branch so as to learn stash in git.
